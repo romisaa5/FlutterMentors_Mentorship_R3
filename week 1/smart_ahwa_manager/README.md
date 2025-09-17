@@ -143,3 +143,9 @@ Additionally, a **factory class** (`InstructionFactory`) was added under `factor
   - CLI depends on abstractions & factories, not hardcoded implementations.  
 
 ---
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/e53f2d58-2b4a-4932-ac07-3c2fdc58c327" controls width="480" style="border-radius: 12px;"></video>
+</div>
+
+---
