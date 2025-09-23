@@ -32,3 +32,10 @@ Users can drag colored balls and drop them into their matching containers with r
 ---
 
 ## 📸 Demo
+
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/0aa08847-108f-4870-9233-3223eaabd52b" controls width="480" style="border-radius: 12px;"></video>
+</div>
+
+---
