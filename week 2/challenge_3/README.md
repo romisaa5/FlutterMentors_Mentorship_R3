@@ -49,3 +49,11 @@ The animation consists of **3 dots** that scale and fade **in sequence**, creati
 - Combining **scale** and **opacity** results in a more dynamic and professional animation.  
 
 ---
+## 📸 Demo
+
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/5b218272-8611-4b4b-b8c2-bc293807b42c" controls width="480" style="border-radius: 12px;"></video>
+</div>
+
+---
