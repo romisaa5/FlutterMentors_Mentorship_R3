@@ -1,16 +1,34 @@
-# challenge_2
+# 🎮 Challenge 2: Interactive Physics Widget
 
-A new Flutter project.
+This Flutter challenge demonstrates how to build a **mini interactive physics simulation** using `Draggable` and `DragTarget`.  
+Users can drag colored balls and drop them into their matching containers with real-time visual feedback.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🟢 **3 draggable colored balls** (Red, Green, Blue).  
+- 🎯 **Matching drop targets** for each color.  
+- 👀 **Visual feedback** while dragging (highlighted containers).  
+- ✅ **Success state** with check icon when a correct match is made.  
+- ❌ **Error handling** with snack bars when dropping on the wrong container.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Widgets & Concepts Used
+- `Draggable` → makes the colored balls draggable.  
+- `DragTarget` → creates drop zones (containers).  
+- `SnackBar` → shows success/error messages.  
+- `setState` → updates UI dynamically after each drag/drop.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Demo Flow
+1. Drag a ball from the top row.  
+2. Hover it over a container → container highlights.  
+3. Drop the ball:  
+   - ✅ If correct → container fills with color + check mark.  
+   - ❌ If wrong → error snackbar appears.  
+
+---
+
+## 📸 Demo
