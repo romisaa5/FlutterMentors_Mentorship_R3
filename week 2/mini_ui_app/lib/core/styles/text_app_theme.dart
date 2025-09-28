@@ -2,6 +2,27 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class TextAppTheme {
+  static final textStyle11 = TextStyle(
+    color: Colors.white,
+    fontSize: 11.sp,
+    fontWeight: FontWeight.normal,
+    fontFamily: 'Raleway',
+    decoration: TextDecoration.none,
+  );
+  static final textStyle13 = TextStyle(
+    color: Colors.white,
+    fontSize: 13.sp,
+    fontWeight: FontWeight.w400,
+    fontFamily: 'Raleway',
+    decoration: TextDecoration.none,
+  );
+  static final textStyle15 = TextStyle(
+    color: Colors.white,
+    fontSize: 15.sp,
+    fontWeight: FontWeight.w400,
+    fontFamily: 'Raleway',
+    decoration: TextDecoration.none,
+  );
   static final textStyle12 = TextStyle(
     color: Colors.grey,
     fontSize: 12.sp,
@@ -24,7 +45,7 @@ class TextAppTheme {
   );
   static final textStyle18 = TextStyle(
     fontSize: 18.sp,
-  color: Color(0xff18153F),
+    color: Color(0xff18153F),
     fontWeight: FontWeight.w600,
     fontFamily: 'Raleway',
     decoration: TextDecoration.none,
@@ -33,7 +54,7 @@ class TextAppTheme {
     fontSize: 32.sp,
     fontWeight: FontWeight.bold,
     fontFamily: 'Raleway',
-      color: Color(0xff18153F),
+    color: Color(0xff18153F),
     decoration: TextDecoration.none,
   );
 

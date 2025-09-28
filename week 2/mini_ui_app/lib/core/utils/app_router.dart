@@ -1,4 +1,5 @@
 import 'package:go_router/go_router.dart';
+import 'package:mini_ui_app/features/details/presentation/screens/details_screen.dart';
 import 'package:mini_ui_app/features/home/presentation/widgets/bottom_nav_bar.dart';
 
 class AppRouter {
@@ -14,7 +15,10 @@ static const navBar='/navBar';
           path: navBar,
           builder: (context, state) => CustomBottomNavBar(),
         ),
-     
+            GoRoute(
+          path: detailsview,
+          builder: (context, state) => DetailsScreen(),
+        ),
       ],
     );
   }
