@@ -18,7 +18,7 @@ class AppColors {
 
   static const Color lavender = Color(0xFFA49AD8);
   static const Color babyBlue = Color(0xFFD3D6FF);
-
+  static const Color acentBlue = Color(0xFFDDE2FF);
 
   static const Color darkIndigo = Color(0xFF18153F);
   static const Color midnightBlue = Color(0xFF16103C);

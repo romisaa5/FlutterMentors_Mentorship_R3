@@ -10,7 +10,7 @@ class TextAppTheme {
     decoration: TextDecoration.none,
   );
   static final textStyle14 = TextStyle(
-    color: Colors.grey,
+    color: Color(0xff18153F),
     fontSize: 14.sp,
     fontWeight: FontWeight.normal,
     fontFamily: 'Raleway',
@@ -24,7 +24,7 @@ class TextAppTheme {
   );
   static final textStyle18 = TextStyle(
     fontSize: 18.sp,
-    color: Colors.black,
+  color: Color(0xff18153F),
     fontWeight: FontWeight.w600,
     fontFamily: 'Raleway',
     decoration: TextDecoration.none,
@@ -33,7 +33,7 @@ class TextAppTheme {
     fontSize: 32.sp,
     fontWeight: FontWeight.bold,
     fontFamily: 'Raleway',
-    color: Colors.black,
+      color: Color(0xff18153F),
     decoration: TextDecoration.none,
   );
 
