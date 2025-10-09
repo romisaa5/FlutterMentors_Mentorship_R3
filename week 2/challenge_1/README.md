@@ -24,6 +24,7 @@ The goal of this challenge is to practice Flutter's UI interactivity combined wi
 ---
 
 ## 📂 Project Structure
+```
 lib/
 ├── models/
 │ └── note_model.dart # Task model
@@ -37,7 +38,7 @@ lib/
 ├── views/
 │ └── home_view.dart # Main screen with ReorderableListView
 └── main.dart # Entry point with theme setup
-
+```
 
 ---
 
